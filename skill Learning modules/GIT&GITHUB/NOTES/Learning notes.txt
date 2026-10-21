@@ -1,0 +1,26 @@
+Version Control: It is the process of tracking, managing, making changes of the code or info over the period of time by maintaining the history of saved versions.
+
+Repository: It is nothing but a folder in GIT but only change is this folder is constantly monitored by GIT whenever we made the changes in the file
+
+GIT: It is a version control software which maintain and track the history of the file records when ever the changes or modifications has been done to the file.
+
+GITHUB: Same as GIT but in online version where you can host your Repos on air so it can accessible to anyone and anywhere in the world.
+
+---------------------------------------------------------------------------------------------
+
+GIT COMMANDS
+
+Git init: This command turns your folder into the repository and starts tracking your files and changes you made in it.
+Git add: This command helps you select the file you want to save the next commit
+Git commit: This Command commits the changes we  made in the file and take a snap of the changes we made.
+Git Push: This command helps you to send the project to the cloud so you can access the file anywhere around the world with using this command
+Git log: this command helps you to know the changes that we made in the file it will show you the changes that made in file up to date
+ Git show: This command shows you the change that you made in the file
+
+---------------------------------------------------------------------------------------------
+Git Branch: It is a separate path where you can develop the feature or the changes you want to make for your project without interrupting the main project file. Like you want to develop the login page for your website but don't want to interrupt your backend code so you create a branch and develop you login page and if it is success then you add that into your main file if not you terminate the branch.
+
+Commit vs Branch: In commit you can have the info of the one file where you can change or modify it within the file but you cant have the entire file where as in branch you will have the entire separate section with different file so you can develop the code and merge it with main file if you are ok with it if not then delete the secondary file.
+
+Git pull request : It is a request to merge a code with the  main code. like you have  main code with you and you friend has a different code want to merge with your code so he will send the pull request to you and  you will inspect the code and merge it with your main code if you like it
+
