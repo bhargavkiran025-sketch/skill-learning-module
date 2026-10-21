@@ -22,5 +22,5 @@ Git Branch: It is a separate path where you can develop the feature or the chang
 
 Commit vs Branch: In commit you can have the info of the one file where you can change or modify it within the file but you cant have the entire file where as in branch you will have the entire separate section with different file so you can develop the code and merge it with main file if you are ok with it if not then delete the secondary file.
 
-Git pull request : It is a request to merge a code with the  main code. like you have  main code with you and you friend has a different code want to merge with your code so he will send the pull request to you and  you will inspect the code and merge it with your main code if you like it
+Git pull request : It is a request to merge a code with the  main code. like you have  main code with you and you friend has a different code want to merge with your code so he will send the pull request to you and  you will inspect the code and merge it with your main code if you like it.
 
